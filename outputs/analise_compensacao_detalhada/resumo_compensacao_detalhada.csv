@@ -1,0 +1,3 @@
+sistema,cenarios,correlacao_pearson_bus0_bus1,correlacao_spearman_bus0_bus1,percentagem_sinais_opostos_bus0_bus1,compensacao_mediana_bus0_bus1_pct,compensacao_media_bus0_bus1_pct,p01_compensacao_bus0_bus1_pct,p01_compensacao_total_pct,maior_erro_liquido_total_MW,p95_erro_liquido_total_MW,maior_erro_liquido_buses_0_1_MW,n_cenarios_no_pior_1pct
+IEEE-14,15000,-0.9712123612187789,-0.8062687185613988,93.74,89.366943359375,80.81851959228516,0.0,0.0,1.2625305652618408,0.05194859430193901,1.2625305652618408,150
+IEEE-30,15000,-0.9792268867945929,-0.8741375841484561,86.66666666666667,79.41490173339844,65.61368560791016,0.0,0.0,2.263336181640625,0.07758560180664059,2.263336181640625,150
